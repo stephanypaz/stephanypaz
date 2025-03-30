@@ -1,16 +1,21 @@
-## Hi there 👋
+## Oie! 👋 Prazer, me chamo Stéphany Paz Brodowski.
 
-<!--
-**stephanypaz/stephanypaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 2° período de **Análise e Desenvolvimento de Sistemas** na FICR  
+💻 Fascinada pelo mundo tech e pelo impacto positivo da tecnologia  
+🐱 Apaixonada por gatos  
+📝 Gosto de escrever poemas e compartilhar ideias  
 
-Here are some ideas to get you started:
+🚀 Atualmente, estou me aprofundando em:  
+- **Linguagens**: Java, Sprint Boot, Angular, SQL, JavaScript, HTML  
+- **Ferramentas**: VS Code, IntelliJ, Eclipse  
+- **Interesses**: Desenvolvimento de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Objetivo  
+Busco uma oportunidade de **estágio** para aplicar meus conhecimentos, aprender novas tecnologias e contribuir para projetos inovadores.
+
+
+📲 **Sinta-se à vontade para entrar em contato comigo:**  
+<div> 
+  <a href="mailto:stephanypazb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/stephanypazb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
